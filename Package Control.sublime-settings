@@ -2,8 +2,9 @@
   "installed_packages":
 	[
 		"Package Control",
-		"PhpDoc",
-		"PhpTidy",
+		"SublimeLinter",
+		"Git",
+		"SFTP",
 		"SublimeLinter",
 		"TrailingSpaces",
 		"Yii Framework Docs Search",
@@ -11,6 +12,6 @@
 	],
 	"repositories":
 	[
-		"https://github.com/spadgos/sublime-jsdocs"
+		"https://github.com/kemayo/sublime-text-2-git"
 	]
 }
