@@ -1,0 +1,16 @@
+{
+  "installed_packages":
+	[
+		"Package Control",
+		"PhpDoc",
+		"PhpTidy",
+		"SublimeLinter",
+		"TrailingSpaces",
+		"Yii Framework Docs Search",
+		"Yii Framework Snippets"
+	],
+	"repositories":
+	[
+		"https://github.com/spadgos/sublime-jsdocs"
+	]
+}
