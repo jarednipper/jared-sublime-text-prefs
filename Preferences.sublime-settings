@@ -1,3 +1,4 @@
 {
-	"caret-style": "phase"
+	"caret-style": "phase",
+	"draw_white_space": "all"
 }
